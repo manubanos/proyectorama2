@@ -9,6 +9,6 @@ int main()
         printf("Que tal");
 
         printf("Que tal");
-
+        printf("Que tal");
         return 0;
 }
